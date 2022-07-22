@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5516988532085&text=oi%2c+tudo+bem+%3f">
+<a href="< Alison  FullStack={true}/>#8837">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" >
 </a>
 <a href="mailto:alison.simiao@gmail.com">
