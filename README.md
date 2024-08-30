@@ -1,8 +1,8 @@
 ## Ola! Eu sou o Alison Simiao 👋
 
-- 🔭 Hoje estou trabalhando como Full Stack Developer com foco em Front-End
+- 🔭 Hoje estou trabalhando como Full Stack Developer com foco em BackEnd
 - 🌱 Estou estudando Typescript
-- 🤔 Pronomes: Ele/Dele 
+- 🤔 Pronomes: Ele/Dele
 
 ##
 <div align="left">
